@@ -11,9 +11,7 @@ class welcome extends React.Component {
     render (){
         return (
             <View>
-                <Text>hallo</Text>
-                <Text>ar</Text>
-                <Text>profile</Text>
+                <Text>company</Text>
                 
             </View>  
         );
