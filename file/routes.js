@@ -30,7 +30,7 @@ const AppNavigator = createStackNavigator({
 
 },
     {
-        initialRouteName: 'home',
+        initialRouteName: 'welcome',
     }
 );
 
