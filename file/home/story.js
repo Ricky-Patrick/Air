@@ -5,6 +5,7 @@ class story extends React.Component {
         return (
             <View>
                 <Text>hallo</Text>
+                <Text>museum terdekat </Text>
                 
             </View>  
         );

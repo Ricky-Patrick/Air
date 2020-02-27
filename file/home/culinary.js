@@ -5,6 +5,7 @@ class culinary extends React.Component {
         return (
             <View>
                 <Text>hallo</Text>
+                <Text>apa yang ingin anda makan</Text>
                 
             </View>  
         );

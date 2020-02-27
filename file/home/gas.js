@@ -5,6 +5,7 @@ class gas extends React.Component {
         return (
             <View>
                 <Text>hallo</Text>
+                <Text>inilah beberapa tempat pengisian yang terdekat dengan anda</Text>
                 
             </View>  
         );

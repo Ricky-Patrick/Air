@@ -5,6 +5,7 @@ class park extends React.Component {
         return (
             <View>
                 <Text>hallo</Text>
+                <Text>kriteria tempat apa yang ingin kamu kunjungin?</Text>
                 
             </View>  
         );

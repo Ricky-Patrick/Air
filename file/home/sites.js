@@ -5,6 +5,7 @@ class sites extends React.Component {
         return (
             <View>
                 <Text>hallo</Text>
+                <Text>ingin ke museum?</Text>
                 
             </View>  
         );

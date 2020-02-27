@@ -12,6 +12,8 @@ class welcome extends React.Component {
         return (
             <View>
                 <Text>hallo</Text>
+                <Text>ar</Text>
+                <Text>profile</Text>
                 
             </View>  
         );
