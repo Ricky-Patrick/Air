@@ -5,37 +5,37 @@ import {createStackNavigator} from 'react-navigation-stack';
 import 'react-native-gesture-handler';
 
 {/*diskover*/}
-import bg from '../img/asset/jezael-melgoza-KNijwi0CU5U-unsplash.png';
-import lokasi from '../img/asset/Icon-material-location-on.png';
-import kepala from '../img/asset/maskgrup.png';
-import search from '../img/asset/search.png';
+import bg from '../../img/asset/jezael-melgoza-KNijwi0CU5U-unsplash.png';
+import lokasi from '../../img/asset/Icon-material-location-on.png';
+import kepala from '../../img/asset/maskgrup.png';
+import search from '../../img/asset/search.png';
 
 {/*nearby*/}
-import plane from '../img/asset/plane.png';
-import fitness from '../img/asset/dumbbell.png';
-import culinary from  '../img/asset/rice.png';
-import atm from '../img/asset/business-and-finance.png';
+import plane from '../../img/asset/plane.png';
+import fitness from '../../img/asset/dumbbell.png';
+import culinary from  '../../img/asset/rice.png';
+import atm from '../../img/asset/business-and-finance.png';
 
-import gas from '../img/asset/gas-station.png';
-import park from '../img/asset/ferris.png';
-import historic from '../img/asset/oscar-academy-award.png';
-import  local from '../img/asset/script.png';
+import gas from '../../img/asset/gas-station.png';
+import park from '../../img/asset/ferris.png';
+import historic from '../../img/asset/oscar-academy-award.png';
+import  local from '../../img/asset/script.png';
 
 {/*destinasi*/}
-import kuta from '../img/asset/kuta.png';
-import lokasi1 from '../img/asset/pin.png';
-import raja from '../img/asset/papua.png';
-import turtle from '../img/asset/samule-sun-Mwg_MdX-Jx-1.png';
-import nusa from '../img/asset/nasa-kDsNr-vu-1.png';
-import sleman from '../img/asset/mandalika-ntb.png';
+import kuta from '../../img/asset/kuta.png';
+import lokasi1 from '../../img/asset/pin.png';
+import raja from '../../img/asset/papua.png';
+import turtle from '../../img/asset/samule-sun-Mwg_MdX-Jx-1.png';
+import nusa from '../../img/asset/nasa-kDsNr-vu-1.png';
+import sleman from '../../img/asset/mandalika-ntb.png';
 
 
 
 {/*tab bar*/}
-import iconhome from '../img/asset/home-icon-silhouette.png';
-import iconar from '../img/asset/icon-1.png';
-import iconitinerary from '../img/asset/map.png';
-import iconprofile from '../img/asset/user.png';
+import iconhome from '../../img/asset/home-icon-silhouette.png';
+import iconar from '../../img/asset/icon-1.png';
+import iconitinerary from '../../img/asset/map.png';
+import iconprofile from '../../img/asset/user.png';
 
 class home extends React.Component {
     static navigationOptions={

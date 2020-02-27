@@ -4,7 +4,7 @@ import {createAppContainer} from 'react-navigation';
 import {createStackNavigator} from 'react-navigation-stack';
 import 'react-native-gesture-handler';
 
-import bg from '../img/asset/bg.png';
+import bg from '../../img/asset/bg.png';
 
 
 class welcome extends React.Component {
