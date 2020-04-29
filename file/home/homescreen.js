@@ -94,7 +94,7 @@ class home extends React.Component {
             <View style={{justifyContent: 'space-between' , flexDirection: 'row' , width: '100%' , marginBottom: 28}}>
 
                 <View >
-                <TouchableOpacity onPress={() => this.props.navigation.navigate('welcome')} >
+                <TouchableOpacity onPress={() => this.props.navigation.navigate('airport')} >
                 <View style={{width: 58 , height:58 , borderWith: 1 , borderColor: 'white' , borderRadius: 18 , backgroundColor:'white' , justifyContent: 'center' , alignItems: 'center'}}>
                     <Image source={plane}/>
                 </View>

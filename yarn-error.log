@@ -1,5 +1,5 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add react-native-responsive-screen
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add react-native-vector-icons --save
 
 PATH: 
   C:\Python27\;C:\Python27\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\xampp\php;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.8.0_231\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Yarn\bin\;C:\ProgramData\ComposerSetup\bin;C:\Users\Ricky\AppData\Local\Microsoft\WindowsApps;C:\Users\Ricky\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Ricky\AppData\Roaming\npm;C:\ProgramData\Microsoft\Windows\StartMenu\Programs\Git;C:\Users\Ricky\AppData\Local\Yarn\bin;C:\Users\Ricky\AppData\Roaming\Composer\vendor\bin
@@ -35,6 +35,7 @@ npm manifest:
       "react-native-gesture-handler": "^1.5.3",
       "react-native-reanimated": "^1.7.0",
       "react-native-responsive": "^1.0.2",
+      "react-native-responsive-screen": "^1.4.0",
       "react-native-safe-area-context": "^0.6.2",
       "react-native-safe-area-view": "^1.0.0",
       "react-native-screens": "^2.0.0-alpha.29",
@@ -4375,6 +4376,11 @@ Lockfile:
     version "1.7.0"
     resolved "https://registry.yarnpkg.com/react-native-reanimated/-/react-native-reanimated-1.7.0.tgz#896db2576552ac59d288a1f6c7f00afc171f240c"
     integrity sha512-FQWSqP605eQVJumuK2HpR+7heF0ZI+qfy4jNguv3Xv8nPFHeIgZaRTXHCEQL2AcuSIj50zy8jGJf5l134QMQWQ==
+  
+  react-native-responsive-screen@^1.4.0:
+    version "1.4.0"
+    resolved "https://registry.yarnpkg.com/react-native-responsive-screen/-/react-native-responsive-screen-1.4.0.tgz#c7d90c173edba28c023c665975c0de85fd60eaba"
+    integrity sha512-qhT4+ATQbqV1GYaCzit560HnBNoZD7WahiZKAZebJlgBl6D8uY+kYuGwBl3rIamP5CsMfwyUJnoI5Z79JU2yyA==
   
   react-native-responsive@^1.0.2:
     version "1.0.2"
